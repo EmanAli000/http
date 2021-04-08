@@ -1,0 +1,11 @@
+C:\Users\Eman.Suliman\Desktop\New folder\demo\demo\bin\Debug\netcoreapp3.1\demo.exe
+C:\Users\Eman.Suliman\Desktop\New folder\demo\demo\bin\Debug\netcoreapp3.1\demo.deps.json
+C:\Users\Eman.Suliman\Desktop\New folder\demo\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.json
+C:\Users\Eman.Suliman\Desktop\New folder\demo\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.dev.json
+C:\Users\Eman.Suliman\Desktop\New folder\demo\demo\bin\Debug\netcoreapp3.1\demo.dll
+C:\Users\Eman.Suliman\Desktop\New folder\demo\demo\bin\Debug\netcoreapp3.1\demo.pdb
+C:\Users\Eman.Suliman\Desktop\New folder\demo\demo\obj\Debug\netcoreapp3.1\demo.csprojAssemblyReference.cache
+C:\Users\Eman.Suliman\Desktop\New folder\demo\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfoInputs.cache
+C:\Users\Eman.Suliman\Desktop\New folder\demo\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfo.cs
+C:\Users\Eman.Suliman\Desktop\New folder\demo\demo\obj\Debug\netcoreapp3.1\demo.dll
+C:\Users\Eman.Suliman\Desktop\New folder\demo\demo\obj\Debug\netcoreapp3.1\demo.pdb
